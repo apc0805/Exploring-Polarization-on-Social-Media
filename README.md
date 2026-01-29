@@ -1,4 +1,4 @@
-The purpose of this project is to analyize over 1.5 million tweets with either #JoeBiden or #Trump in the months leading up to the 2020 presidential election. 
+The purpose of this project is to analyize over 1.5 million tweets with either the #JoeBiden or #Trump tag in the months leading up to the 2020 presidential election. 
 
 This is a two step project with the first program simply classifying the posts. 
 
